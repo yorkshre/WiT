@@ -1,0 +1,25 @@
+.. _wikipedia: https://pl.wikipedia.org/wiki/Python
+
+O Pythonie słów kilka
+=====================
+
+Niecierpliwi w tym miejscu chcieliby pewnie już napisać pierwszy program. Jednak w moim kursie nim to zrobimy wyjaśnimy sobie jeszcze kilka rzeczy.
+
+Każdy może znaleźć na portalu wikipedia_ taką oto definicję Pythona.
+
+.. glossary::
+
+.. note::
+
+   Python jest to język programowania wysokiego poziomu ogólnego przeznaczenia, o rozbudowanym pakiecie bibliotek standardowych, którego ideą przewodnią jest czytelność i klarowność kodu źródłowego. Jego składnia cechuje się przejrzystością i zwięzłością. Python wspiera różne paradygmaty programowania: obiektowy, imperatywny oraz w mniejszym stopniu funkcyjny.
+
+Jeśli w tym momencie chcesz już uciec, to powstrzymaj się jeszcze. Za chwilę objaśnimy sobie szybko tą definicję i okaże się ona zrozumiała.
+
+Po kolei:
+
+- Python jest to język wysokiego poziomu - znaczy to, że jego składnia i słowa kluczowe maja maksymalnie uprościć zrozumienie tego kodu.
+- Python jest to język ogólnego przeznaczenia - znaczy to, że możemy pisać aplikacje dowolnego typu np. strony internetowe, aplikacje okienkowe, aplikacje konsolowe czy daemony (:term:`Daemon`).
+- Python posiada rozbudowany pakiet bibliotek standardowych - biblioteki standardowe to po prostu zestaw narzędzi dostarczony wraz z interpreterem, które pozwolą nam łatwo i szybko tworzyć aplikacje.
+- Python wspiera różne paradygmaty programowania - znaczy to mniej więcej tyle, że Python wspiera różne techniki tworzenia aplikacji. Niniejszy kurs zajmie się głównie programowaniem obiektowym ponieważ jest ono najpopularniejsze i pozwala pisać kod, który łatwo można zarządzać.
+
+To będzie na razie tyle. Czas uruchomić konsolę Pythona i zacząć coś tworzyć.
